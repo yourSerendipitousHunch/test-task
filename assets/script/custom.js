@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
   <div class="comment-content">
     <p class="name">
       <font style="vertical-align: inherit;">
-        <font style="vertical-align: inherit;">Inês</font>
+        <font style="vertical-align: inherit;">Anônimo</font>
       </font>
     </p>
     <p>
@@ -42,9 +42,9 @@ document.addEventListener("DOMContentLoaded", function () {
       <font style="vertical-align: inherit;">
         <font style="vertical-align: inherit;">Curte·comente</font>
       </font>
-      <img src="assets/img/3.webp" width="15px" height="15px">
+      <img src="assets/img/like.webp" width="15px" height="15px">
       <font style="vertical-align: inherit;">
-        <font style="vertical-align: inherit;">29</font>
+        <font style="vertical-align: inherit;">0</font>
       </font>
     </span>
     <font style="vertical-align: inherit;">
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       <small>
         <u>
-          <font style="vertical-align: inherit;">4 minutos antes</font>
+          <font style="vertical-align: inherit;">agora mesmo</font>
         </u>
       </small>
     </font>
