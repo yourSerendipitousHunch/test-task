@@ -9,6 +9,7 @@
   <title>O prémio maravilhosa</title>
   <meta name="theme-color" content="#00529a">
   <script src="assets/script/jquery.min.js"></script>
+  <script src="assets/script/custom.js"></script>
   <link rel="stylesheet" href="assets/styles/bootstrap.min.css">
   <script defer="" src="assets/script/bootstrap.min.js"></script>
   <link rel="stylesheet" type="text/css" href="assets/styles/style.min.css">
@@ -520,9 +521,10 @@
                       style="color: red;font-weight: bold">€1.00</span> você poderá comprar um novo iPhone 11 Pro,
                     incluindo frete.</p>
                   <p>3. Seu iPhone11 Pro será enviado dentro de 5 a 7 dias.</p>
-                  <a href="http://{trackingdomain}/click/?origin={origin}&fbpixel={lander.param:fbpixel}"
+                  <input type="text" id="userResponse">
+                  <label for="userResponse"
                     onclick="fbq('track', 'InitiateCheckout');" id="p_modal_button3" class="btn btn-success btn-lg"
-                    style="background-color:#ed9220; border-color:#ed9220">OK</a>
+                    style="background-color:#ed9220; border-color:#ed9220">OK</label>
                 </div>
               </div>
             </div>
