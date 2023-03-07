@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </p>
     <p>
       <font style="vertical-align: inherit;">
-        <font style="vertical-align: inherit;">Eu ganhei nada</font>
+        <font style="vertical-align: inherit;"> ${comment}</font>
       </font>
     </p>
   </div>
